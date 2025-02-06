@@ -1,4 +1,4 @@
-# Sales-analytics-dashboard-using---Google-Looker-
+# Sales-analytics-dashboard-using---Google-Looker
 Project Title:
 Sales Analytics with Google Looker Studio Click on the below link to view the dashboard: 
 https://lookerstudio.google.com/s/oevrl1ulii0
