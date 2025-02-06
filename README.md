@@ -1,7 +1,7 @@
 # Sales-analytics-dashboard-using---Google-Looker-
 Project Title:
 Sales Analytics with Google Looker Studio Click on the below link to view the dashboard: 
-https://lookerstudio.google.com/reporting/c75fc46d:
+https://lookerstudio.google.com/s/oevrl1ulii0
 
 Project Description:
 This project involves analyzing sales data from a retail company to derive actionable insights and create impactful visualizations using SQL, Python, and Google Looker Studio. The dataset comprises multiple tables (customer_detail, order_detail, sku_detail, and payment_detail) representing customers, orders, products, and payments. The objectives of this project include:
